@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:23:27.108Z",
+  "generatedAt": "2026-10-30T19:53:56.022Z",
   "generator": "dsh-github-community/0.3.0-rc.4",
   "owner": "StarWind97",
   "repo": "dsh-community-test-cloud",
@@ -12,7 +12,7 @@
       "path": "posts/2026-10-30-云间的开源随手记-01M66XCZR4SYST2KK1A8950JNZ.md",
       "url": "https://github.com/StarWind97/dsh-community-test-cloud/blob/main/posts/2026-10-30-%E4%BA%91%E9%97%B4%E7%9A%84%E5%BC%80%E6%BA%90%E9%9A%8F%E6%89%8B%E8%AE%B0-01M66XCZR4SYST2KK1A8950JNZ.md",
       "publishedAt": "2026-10-30T17:23:27.108Z",
-      "updatedAt": null,
+      "updatedAt": "2026-10-30T19:53:56.022Z",
       "tags": [
         "公开测试",
         "开源"
